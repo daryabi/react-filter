@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "Keyword": "MINING OF COAL AND LIGNIT",
+        "MDM_PARTY_INDUSTRY": "MINING AND QUARRYING",
+        "price": 40,
+        "img": "https://m.media-amazon.com/images/I/810OOg88LoL._AC_UY327_FMwebp_QL65_.jpg",
+        "amount": 1
+      },
+      {
+        "id": 2,
+        "Keyword": "EDUCATION",
+        "MDM_PARTY_INDUSTRY": "SECONDARY EDUCATION",
+        "price": 50,
+        "img": "https://m.media-amazon.com/images/I/71rmxx8P2qL._AC_UY327_FMwebp_QL65_.jpg",
+        "amount": 1
+      },
+      {
+        "id": 3,
+        "Keyword": "CONSTRUCTION",
+        "MDM_PARTY_INDUSTRY": "CONSTRUCTION OF BUILDINGS1",
+        "price": 10,
+        "img": "https://m.media-amazon.com/images/I/81Gbz0XnW7L._AC_UY327_FMwebp_QL65_.jpg",
+        "amount": 1
+      },
+      {
+        "id": 4,
+        "Keyword": "CONSTRUCTION",
+        "MDM_PARTY_INDUSTRY": "CONSTRUCTION OF BUILDINGS",
+        "price": 10,
+        "img": "https://m.media-amazon.com/images/I/81Gbz0XnW7L._AC_UY327_FMwebp_QL65_.jpg",
+        "amount": 1
+      }
+]
